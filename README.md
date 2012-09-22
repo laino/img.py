@@ -1,6 +1,6 @@
 python img.py [-whcbvn] image
-Options:
 
+	Options:
 	-w --width          - width in pixels, if specified without height, the image will be scaled proportionally
 	-h --height         - see width
 	-c --character      - character to use for foreground
