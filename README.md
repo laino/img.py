@@ -10,4 +10,6 @@ Options:
 	--help              - this 
 	image               - Any image or gif (output will be animated)
 
-The color conversion methods are lent from the great Fabulous Libary ( http://lobstertech.com/fabulous.html )
+More info and screenshots: http://crunchbanglinux.org/forums/post/239059/
+
+The color conversion methods are lent from the great Fabulous libary (http://lobstertech.com/fabulous.html)
