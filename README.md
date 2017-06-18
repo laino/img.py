@@ -10,6 +10,6 @@ python img.py [-whcbvn] image
 	--help              - this 
 	image               - Any image or gif (output will be animated)
 
-More info and screenshots: http://crunchbanglinux.org/forums/post/239059/
+More info and screenshots: https://web.archive.org/web/20120926085652/http://crunchbanglinux.org/forums/post/239059/
 
 The color conversion methods are lent from the great Fabulous libary (http://lobstertech.com/fabulous.html)
